@@ -37,7 +37,7 @@
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
 </div>
-
+<br>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Octdoki&layout=compact">
 </div>
