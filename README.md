@@ -6,7 +6,7 @@
   <!--소개-->
 
 ## Introduction :raised_hands:
-꾸준히 성장하는 개발자 조문주입니다.😎
+꾸준히 성장하는 개발자 조문주입니다.😊🙌
 <br/><br/>
 
 <h3>📚 Tech Stack 📚</h3>
