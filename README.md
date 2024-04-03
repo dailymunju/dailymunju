@@ -12,6 +12,8 @@
 오늘도 더 나은 방향으로 나아가고 있습니다.
 <br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyerin-Im&count_bg=%23FFC6C6&title_bg=%23FF7C7C&icon=&icon_color=%23E9E9E9&title=%E3%83%BE%28%E2%80%A2%CF%89%E2%80%A2%60%29o+hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2384BEFB&title_bg=%239CD9FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <h3>📚 Tech Stack 📚</h3>
 <p>✨ Platforms & Languages ✨</p>
 </div>
