@@ -11,8 +11,6 @@
 더 잘하고 싶다는 마음으로 늘 고민하고 배우며,<br/>
 오늘도 더 나은 방향으로 나아가고 있습니다.
 <br/><br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2384BEFB&title_bg=%239CD9FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <h3>📚 Tech Stack 📚</h3>
 <p>✨ Platforms & Languages ✨</p>
 </div>
