@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=EclipseIDE&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+  <p>https://www.notion.so/munju-log-5da58d09a78140d4aece91baf5c5c735</p>
 </div>
 <br/>
 <div align=center>
